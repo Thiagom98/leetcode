@@ -1,0 +1,1 @@
+Resolution leetcode Problem 1480
